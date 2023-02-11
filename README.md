@@ -29,7 +29,7 @@ OC Pizza est spécialisé dans les pizzas livrées ou à emporter. Il compte dé
 ### Le procès verbal de la livraison :
 - Certifier que la solution informatique a été livrée et installée conformément aux conditions convenues
 
-## 💻 Solutions techniques retenus
+## 💻 Solutions techniques retenues
 
 <img src="https://i.imgur.com/a9tiFVE.png" width=auto height=30>&nbsp; Front-end avec la bibliothèque React JS de Javascript
 
