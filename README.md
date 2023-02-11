@@ -10,7 +10,7 @@ OC Pizza est spécialisé dans les pizzas livrées ou à emporter. Il compte dé
 - Proposer un site internet pour que le client puisse commander en ligne
 - Proposer un aide-mémoire aux pizzaiolos
 
-## 💻 Les documents
+## 🗂️ Livrables
 
 ### Le dossier de conception fonctionnelle :
 - Décrire les fonctionnalités
@@ -27,7 +27,7 @@ OC Pizza est spécialisé dans les pizzas livrées ou à emporter. Il compte dé
 - Décrire les processus de maintenance
 
 ### Le procès verbal de la livraison :
-- certifier que la solution informatique a été livrée et installée conformément aux conditions convenues entre le nous et le client.
+- Certifier que la solution informatique a été livrée et installée conformément aux conditions convenues
 
 ## 💻 Solutions techniques retenus
 
@@ -40,3 +40,9 @@ OC Pizza est spécialisé dans les pizzas livrées ou à emporter. Il compte dé
 <img src="https://i.imgur.com/dOyc2Oe.jpg" width="50" height=auto>&nbsp; S3 Bucket d'AWS pour le serveur de fichiers
 
 <img src="https://i.imgur.com/IRtj4VC.jpg" width=auto height="30">&nbsp; Heroku pour le déploiement
+
+## 🔌 Base de données
+
+Le fichier `ocpizza_db_deployment.sql` permet de déployer la base de données
+
+Le fichier `ocpizza_db_data_insert.sql` permet d'injecter des données de test
